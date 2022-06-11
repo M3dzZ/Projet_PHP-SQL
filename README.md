@@ -1,6 +1,6 @@
 <h2>Contexte</h2>
 
-<span> Dans le cadre d'un projet d'école en back-end, Nous avons eu 2 semaines pour réaliser un réseau social en groupe de 7.</span>
+<span> Dans le cadre d'un projet d'école en back-end, Nous avons eu 2 semaines pour réaliser un réseau social en groupe.</span>
 
 <h2>Contraintes imposées</h2>
 
