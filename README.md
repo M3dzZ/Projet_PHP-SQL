@@ -16,7 +16,7 @@
 - Publier un post
 - Section pour envoyer des messages privés
 
-<h1>Technologies utilisées</h1>
+<h2>Technologies utilisées</h2>
 
 <h2>Front-end</h2>
 
